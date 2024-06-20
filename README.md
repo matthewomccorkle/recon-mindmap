@@ -4,4 +4,5 @@ A mindmap that follows the techniques I use to perform OSINT gathering and recon
 Bold arrows are techniques I implement on every penetration test.
 
 Think arrows are techniques I implement optionally as needed. 
-![alt text]([https://raw.githubusercontent.com/matthewomccorkle/recon-mindmap/main/Finding%20all%20of%20the%20things.svg](https://raw.githubusercontent.com/matthewomccorkle/recon-mindmap/main/Finding%20all%20of%20the%20things.svg))
+
+![Finding all of the things](https://github.com/matthewomccorkle/recon-mindmap/assets/105676938/dca6aa70-8cc5-49dc-8405-d471217a4508)
